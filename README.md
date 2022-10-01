@@ -11,5 +11,3 @@ The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
 ### `[https://www.vitico.tk](https://www.vitico.tk)
-# hola
-# vitico.portfolio
